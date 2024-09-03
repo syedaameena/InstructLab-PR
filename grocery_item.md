@@ -1,7 +1,7 @@
 # Grocery Product Substitutes Guide
 
 ## 1. Almond Milk
-**Substitutes:** Soy Milk, Oat Milk  
+**Substitutes:** Soy Milk, Oat Milk, Coconut Milk  
 **Nutrition Facts:** Almond milk is low in calories and a good source of vitamin E. (1 cup / 240ml) Calories: 30-50, Fat: 2.5g, Saturated Fat: 0g, Carbohydrates: 1g, Sugars: 0g, Vitamins: Vitamin E, D, B12.
 
 ## 2. Butter
